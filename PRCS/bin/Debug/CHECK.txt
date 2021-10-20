@@ -1,0 +1,7 @@
+.\mssql12
+PRCS
+power@2012
+sa
+
+
+
